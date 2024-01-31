@@ -1,4 +1,4 @@
-def conversortemperatura ():
+def conversortemperatura (celsius):
   Fahrenheit = (celsius * 9/5) +32
   return (Fahrenheit)
 
